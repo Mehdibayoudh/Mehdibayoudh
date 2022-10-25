@@ -47,7 +47,6 @@
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=Mehdibayoudh&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-##Teibo snake eats my contributes XD
 <div align="center">
   <h2>🐍 Teibo snake eating my contribution 🐍</h2>
   <br>
